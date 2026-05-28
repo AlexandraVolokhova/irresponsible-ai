@@ -1,0 +1,35 @@
+A Simple Model for Learning Multilingual Compositional Semantics
+Zero-Shot Learning by Convex Combination of Semantic Embeddings
+Exact solutions to the nonlinear dynamics of learning in deep linear neural networks
+Revisiting Natural Gradient for Deep Networks
+Unit Tests for Stochastic Optimization
+The return of AdaBoost.MH: multi-class Hamming trees
+Neuronal Synchrony in Complex-Valued Deep Networks
+Bounding the Test Log-Likelihood of Generative Models
+A Generative Product-of-Filters Model of Audio
+How to Construct Deep Recurrent Neural Networks
+Zero-Shot Learning and Clustering for Semantic Utterance Classification
+An empirical analysis of dropout in piecewise linear networks
+An Empirical Investigation of Catastrophic Forgeting in Gradient-Based Neural Networks
+On Fast Dropout and its Applicability to Recurrent Networks
+Network In Network
+Auto-Encoding Variational Bayes
+Group-sparse Embeddings in Collective Matrix Factorization
+Learning Human Pose Estimation Features with Convolutional Networks
+EXMOVES: Classifier-based Features for Scalable Action Recognition
+On the number of inference regions of deep feed forward networks with piece-wise linear activations
+Intriguing properties of neural networks
+Fast Training of Convolutional Networks through FFTs
+Deep and Wide Multiscale Recursive Networks for Robust Image Labeling
+Some Improvements on Deep Convolutional Neural Network Based Image Classification
+Deep Convolutional Ranking for Multilabel Image Annotation
+Learning to encode motion using spatio-temporal synchrony
+Multi-View Priors for Learning Detectors from Sparse Viewpoint Data
+k-Sparse Autoencoders
+OverFeat: Integrated Recognition, Localization and Detection using Convolutional Networks
+Multi-digit Number Recognition from Street View Imagery using Deep Convolutional Neural Networks
+Sequentially Generated Instance-Dependent Image Representations for Classification
+Learned versus Hand-Designed Feature Representations for 3d Agglomeration
+Spectral Networks and Locally Connected Networks on Graphs
+Sparse similarity-preserving hashing
+Learning Transformations for Classification Forests

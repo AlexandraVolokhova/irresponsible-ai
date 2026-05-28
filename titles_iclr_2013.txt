@@ -1,0 +1,24 @@
+Discrete Restricted Boltzmann Machines
+Feature grouping from spatially constrained multiplicative interaction
+Efficient Learning of Domain-invariant Image Representations
+Indoor Semantic Segmentation using depth information
+The Neural Representation Benchmark and its Evaluation on Brain and Machine
+Feature Learning in Deep Neural Networks - A Study on Speech Recognition Tasks
+Barnes-Hut-SNE
+Herded Gibbs Sampling
+Information Theoretic Learning with Infinitely Divisible Kernels
+What Regularized Auto-Encoders Learn from the Data Generating Distribution
+Discriminative Recurrent Sparse Auto-Encoders
+Complexity of Representation and Inference in Compositional Models with Part Sharing
+Stochastic Pooling for Regularization of Deep Convolutional Neural Networks
+Knowledge Matters: Importance of Prior Information for Optimization
+Local Component Analysis
+The Diagonalized Newton Algorithm for Nonnegative Matrix Factorization
+Jitter-Adaptive Dictionary Learning - Application to Multi-Trial Neuroelectric Signals
+Adaptive learning rates and parallelization for stochastic, sparse, non-smooth gradients
+Training Neural Networks with Stochastic Hessian-Free Optimization
+Metric-Free Natural Gradient for Joint-Training of Boltzmann Machines
+Block Coordinate Descent for Sparse NMF
+Cutting Recursive Autoencoder Trees
+Saturating Auto-Encoder
+Factorized Topic Models
