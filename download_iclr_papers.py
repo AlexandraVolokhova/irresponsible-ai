@@ -57,7 +57,7 @@ client_old = openreview.Client(
     password=args.password,
 )
 
-for year in [2025]:
+for year in range(2017, 2026):
     if year < 2024:
         main(year, client)
     else:
